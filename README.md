@@ -1,1 +1,1 @@
-# ATM-Simulator-
+A Simple ATM simulator developed in python that allows users to check balance, deposit money, withdraw money(with withdrawal amount less than the available balance), and exit through a menu-driven interface. It demonstrates the use of loops, conditional statements, and user input handling.# ATM-Simulator-
